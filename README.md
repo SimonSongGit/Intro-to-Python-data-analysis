@@ -1,2 +1,2 @@
-# Intro-to-Python-data-analysis
-Python for data analysis (fundamental concepts, tools, and model implementation)
+# Fundamental of data analysis
+data analysis with fundamental concepts, tools, and model implementation
